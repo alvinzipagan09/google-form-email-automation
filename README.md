@@ -11,7 +11,7 @@ The hotel’s manual workflow for tracking guest payments was time-consuming and
 
 • Constantly monitor form responses in Google Sheets
 • Manually draft and send payment confirmation emails
-• Risk missing entri
+• Risk missing entries or sending late responses, which could affect customer satisfaction and internal coordination
 
 🚀 Solution
 Using Google Apps Script, I automated the process to:
