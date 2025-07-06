@@ -7,10 +7,11 @@ Automated hotel payment email confirmation using Google Forms, Sheets &amp; Apps
 I built an automation system using Google Forms, Google Sheets, and Google Apps Script that automatically sends a confirmation email to the hotel owner whenever a customer submits a payment form.
 
 📌 Problem
-Manual tracking of guest payments was inefficient. Staff had to:
+The hotel’s manual workflow for tracking guest payments was time-consuming and prone to delays. Staff had to:
 
-• Manually check form responses
-• Send confirmation emails manually
+• Constantly monitor form responses in Google Sheets
+• Manually draft and send payment confirmation emails
+• Risk missing entri
 
 🚀 Solution
 Using Google Apps Script, I automated the process to:
